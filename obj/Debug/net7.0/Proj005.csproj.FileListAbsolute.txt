@@ -1,0 +1,14 @@
+D:\ws\ws-balta\Proj005\bin\Debug\net7.0\Proj005.exe
+D:\ws\ws-balta\Proj005\bin\Debug\net7.0\Proj005.deps.json
+D:\ws\ws-balta\Proj005\bin\Debug\net7.0\Proj005.runtimeconfig.json
+D:\ws\ws-balta\Proj005\bin\Debug\net7.0\Proj005.dll
+D:\ws\ws-balta\Proj005\bin\Debug\net7.0\Proj005.pdb
+D:\ws\ws-balta\Proj005\obj\Debug\net7.0\Proj005.GeneratedMSBuildEditorConfig.editorconfig
+D:\ws\ws-balta\Proj005\obj\Debug\net7.0\Proj005.AssemblyInfoInputs.cache
+D:\ws\ws-balta\Proj005\obj\Debug\net7.0\Proj005.AssemblyInfo.cs
+D:\ws\ws-balta\Proj005\obj\Debug\net7.0\Proj005.csproj.CoreCompileInputs.cache
+D:\ws\ws-balta\Proj005\obj\Debug\net7.0\Proj005.dll
+D:\ws\ws-balta\Proj005\obj\Debug\net7.0\refint\Proj005.dll
+D:\ws\ws-balta\Proj005\obj\Debug\net7.0\Proj005.pdb
+D:\ws\ws-balta\Proj005\obj\Debug\net7.0\Proj005.genruntimeconfig.cache
+D:\ws\ws-balta\Proj005\obj\Debug\net7.0\ref\Proj005.dll
